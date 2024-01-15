@@ -6,12 +6,12 @@ texto
 
 |Complemento | LÉAME |
 |------- | -------- |
-|fila 1  |[columna 1][plDb] |
-|fila 2 | [ columna2 ][plGh] |
-|fila 3 | [columna 3 ][plGh] |
-|fila 4 | [columna 4 ][plOd] |
-|fila 5 | [columna 5 ][plMe] |
-|fila 6 | [columna 6 ][plGa] |
+|fila 1  |[columna 1]|
+|fila 2 | [ columna2 ] |
+|fila 3 | [columna 3 ] |
+|fila 4 | [columna 4 ] |
+|fila 5 | [columna 5 ] |
+|fila 6 | [columna 6 ] |
 
 ---
 
